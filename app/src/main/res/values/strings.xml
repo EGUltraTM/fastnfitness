@@ -194,6 +194,7 @@
     <string name="lastRecordLabel">Last record</string>
     <string name="MachineHint">Enter machine name here</string>
     <string name="WeightHint">Enter your weight here</string>
+    <string name="doubleClickForExit">Please click BACK again to exit</string>
 
 </resources>
 

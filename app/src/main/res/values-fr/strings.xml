@@ -193,4 +193,5 @@
     <string name="profileSelected">Profil selectionné</string>
     <string name="MachineHint">Entre le nom de la machine ici</string>
     <string name="MesureHint">Entre ta mesure ici</string>
+    <string name="doubleClickForExit">Appuyer encore pour quitter</string>
 </resources>
